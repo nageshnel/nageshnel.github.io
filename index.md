@@ -141,10 +141,8 @@ I actively leverage AI-assisted engineering workflows to accelerate software del
 ---
 
 ## 🤝 Let's Connect
-
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/nageshnel
+* Email: nagesh.nel@gmail.com
 
 ---
 
